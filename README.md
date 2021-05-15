@@ -1,3 +1,5 @@
+Note: `alexburner` fork for own prefs
+
 # Prezto — Instantly Awesome Zsh
 
 Prezto is the configuration framework for [Zsh][1]; it enriches the command line
@@ -18,7 +20,7 @@ version is **4.3.11**.
 02. Clone the repository:
 
     ```console
-    git clone --recursive https://github.com/sorin-ionescu/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
+    git clone --recursive https://github.com/alexburner/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
     ```
 
 03. Create a new Zsh configuration by copying the Zsh configuration files
